@@ -1,0 +1,1 @@
+Rust 这边要注意：serde_yaml 已归档，新项目用 serde_yml 或 serde_norway。TOML 用官方 toml crate，维护更稳。如果团队在意依赖长期性，这是 TOML 的加分项。
